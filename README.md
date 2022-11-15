@@ -16,7 +16,9 @@ sh create-custom-shortcuts.sh
 ```
 
 ### Usage:
+
 10 keys are assigned, press
+```
 Ctrl+Alt+Super+1 to 10% Brightness
 Ctrl+Alt+Super+2 to 20% Brightness
 Ctrl+Alt+Super+3 to 30% Brightness
@@ -27,6 +29,6 @@ Ctrl+Alt+Super+7 to 70% Brightness
 Ctrl+Alt+Super+8 to 80% Brightness
 Ctrl+Alt+Super+9 to 90% Brightness
 Ctrl+Alt+Super+0 to 100% Brightness
-
+```
 ### Copyright
 (C) GPLv3 Mohammed Asif Ali Rizvan 
