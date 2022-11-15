@@ -1,0 +1,7 @@
+#!/bin/bash
+gsettings set org.gnome.desktop.a11y.magnifier mag-factor 1
+gsettings set org.gnome.desktop.a11y.magnifier brightness-red $1
+gsettings set org.gnome.desktop.a11y.magnifier brightness-green $1
+gsettings set org.gnome.desktop.a11y.magnifier brightness-blue $1
+gsettings set org.gnome.desktop.a11y.applications screen-magnifier-enabled true
+
